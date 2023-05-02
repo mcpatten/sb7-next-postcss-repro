@@ -30,6 +30,9 @@
     "@storybook/react": "^7.0.7",
     "@storybook/testing-library": "^0.0.14-next.2",
     "eslint-plugin-storybook": "^0.6.11",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-nesting": "^11.2.2",
+    "postcss-preset-env": "^8.3.2",
     "storybook": "^7.0.7"
   }
 }

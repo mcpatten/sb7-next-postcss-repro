@@ -1,0 +1,20 @@
+#storybook-explorer-menu {
+  & .sidebar-subheading {
+    margin-top: 24px;
+  }
+
+  & .sidebar-item {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 14px;
+    font-weight: 400;
+
+    & > svg {
+      margin-top: 4px;
+    }
+
+    &:hover {
+      background: rgba(255,255,255, 0.05);
+    }
+  }
+}
